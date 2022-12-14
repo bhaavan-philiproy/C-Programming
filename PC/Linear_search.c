@@ -23,3 +23,4 @@ int main()
     printf("The no. is not present in the array");
     return 0;
 }
+
