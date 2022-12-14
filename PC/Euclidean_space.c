@@ -15,3 +15,4 @@ main ()
   printf ("Total distance=%d", val.a + val.b);
   getch ();
 }
+
